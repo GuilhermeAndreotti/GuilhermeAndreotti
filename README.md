@@ -23,7 +23,7 @@ Outside of programming, I enjoy **following game development** and exploring how
 <img src="https://i.imgur.com/b83Yt9c.gif" alt="Guilherme's banner" width="60%">
 
 </div>
-
+... yes, I love star wars!
 ---
 
 ## 🛠️ Tech Stack

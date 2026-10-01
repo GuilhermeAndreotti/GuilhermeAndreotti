@@ -4,7 +4,7 @@
 
 ### React • React Native • NestJS Developer
 
-**Web & Mobile Development · AI · Game Development**
+**Web & Mobile Development**
 
 </div>
 

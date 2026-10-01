@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/b83Yt9c.gif" alt="Guilherme's banner" width="100%">
+  <img src="https://i.imgur.com/b83Yt9c.gif" alt="Guilherme's banner" width="60%">
 </p>
 
 # Hi, I'm Guilherme 👋

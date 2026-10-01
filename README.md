@@ -30,3 +30,8 @@
 **UTFPR – Universidade Tecnológica Federal do Paraná**
 **Bachelor's Degree in Software Engineering**
 Cornélio Procópio, Paraná 🇧🇷
+
+## 📫 Contact
+
+- 🔗 LinkedIn: [guilherme-chizzolini-andreotti](https://www.linkedin.com/in/guilherme-chizzolini-andreotti-90481823b/)
+- ✉️ Email: guilhermeandreotti19@gmail.com

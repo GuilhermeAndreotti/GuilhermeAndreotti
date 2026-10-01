@@ -23,7 +23,7 @@
 ### 🎓 Education
 
 <a href="https://www.utfpr.edu.br/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/UTFPR_logo.svg" alt="UTFPR" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UTFPR_logo.svg/250px-UTFPR_logo.svg.png" alt="UTFPR" height="80">
 </a>
 
 **UTFPR – Universidade Tecnológica Federal do Paraná**

@@ -24,7 +24,6 @@ Outside of programming, I enjoy **following game development** and exploring how
 
 </div>
 ... yes, I love star wars!
----
 
 ## 🛠️ Tech Stack
 

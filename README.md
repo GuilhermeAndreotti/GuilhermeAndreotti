@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ## 🧑‍💻 About Me
 
 I'm a **React / React Native / NestJS developer** focused on building web and mobile applications. I work full-time as a developer while also building projects for clients with friends outside of work.
@@ -23,7 +21,7 @@ Outside of programming, I enjoy **following game development** and exploring how
 <img src="https://i.imgur.com/b83Yt9c.gif" alt="Guilherme's banner" width="60%">
 
 </div>
-... yes, I love star wars!
+And yes! I love star wars!
 
 ## 🛠️ Tech Stack
 
@@ -40,8 +38,6 @@ Outside of programming, I enjoy **following game development** and exploring how
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
 
 </div>
-
----
 
 ## 🎓 Education
 
@@ -63,16 +59,12 @@ Cornélio Procópio, Paraná 🇧🇷
 
 </div>
 
----
-
 ## 🎮 Interests
 
 * 🎮 Game development and game design
 * 🤖 AI-powered applications
 * 💡 Experimenting with new software ideas
 * 🌱 Learning and exploring new technologies
-
----
 
 ## 📫 Contact
 

@@ -1,11 +1,11 @@
-# Olá, eu sou o Guilherme 👋
+# Hi, I'm Guilherme 👋
 
-Dev **React / React Native / NestJS**, atuando com desenvolvimento de sites via CLT e, nas horas vagas, explorando outros projetos por conta própria. Curto também **desenvolvimento de jogos** e adoro testar ideias de **apps**, principalmente agora com tudo que está rolando em **IA**.
+**React / React Native / NestJS** developer, working with web development as a full-time job and, in my free time, exploring other projects on my own. I also enjoy **game development** and love testing out **app ideas**, especially now with everything happening in **AI**.
 
-- 💻 Foco principal: aplicações web e mobile com React, React Native e NestJS
-- 🎮 Hobby: desenvolvimento de jogos
-- 🤖 Testando ideias novas de apps usando IA
-- 🌱 Sempre experimentando algo novo fora do trabalho
+- 💻 Main focus: web and mobile apps with React, React Native and NestJS
+- 🎮 Hobby: game development
+- 🤖 Testing new app ideas using AI
+- 🌱 Always experimenting with something new outside of work
 
 ## 🛠️ Stack
 
@@ -18,11 +18,11 @@ Dev **React / React Native / NestJS**, atuando com desenvolvimento de sites via 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare%20R2-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-## 📫 Contato
+## 📫 Contact
 
-- 🔗 LinkedIn: [seu-link-aqui](#)
-- 🌐 Site/Portfólio: [seu-link-aqui](#)
-- ✉️ Email: [seu-email-aqui](#)
+- 🔗 LinkedIn: [your-link-here](#)
+- 🌐 Website/Portfolio: [your-link-here](#)
+- ✉️ Email: [your-email-here](#)
 
 ---
 

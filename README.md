@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.imgur.com/b83Yt9c.gif" alt="Guilherme's banner" width="100%">
+</p>
+
 # Hi, I'm Guilherme 👋
 
 **React / React Native / NestJS developer** with a focus on web development, working full-time while also building projects for clients with friends outside of work. I enjoy following game development and experimenting with new app ideas, especially exploring the possibilities that AI is bringing to software development.
@@ -33,5 +37,5 @@ Cornélio Procópio, Paraná 🇧🇷
 
 ## 📫 Contact
 
-- 🔗 LinkedIn: [guilherme-chizzolini-andreotti](https://www.linkedin.com/in/guilherme-chizzolini-andreotti-90481823b/)
-- ✉️ Email: guilhermeandreotti19@gmail.com
+* 🔗 LinkedIn: [guilherme-chizzolini-andreotti](https://www.linkedin.com/in/guilherme-chizzolini-andreotti-90481823b/)
+* ✉️ Email: [guilhermeandreotti19@gmail.com](mailto:guilhermeandreotti19@gmail.com)

@@ -1,11 +1,9 @@
 # Hi, I'm Guilherme 👋
 
-**React / React Native / NestJS developer** with a focus on web development, working full-time while also building side projects with friends in my free time. I'm passionate about **game development** and enjoy experimenting with new **app ideas**, especially exploring the possibilities that **AI** is bringing to software development.
-
-🎓 **Software Engineering graduate** from **UTFPR – Cornélio Procópio**, Brazil.
+**React / React Native / NestJS developer** with a focus on web development, working full-time while also building projects for clients with friends outside of work. I enjoy following game development and experimenting with new app ideas, especially exploring the possibilities that AI is bringing to software development.
 
 * 💻 Main focus: web and mobile apps with React, React Native and NestJS
-* 🎮 Hobby: Game development
+* 🎮 Hobby: Games
 * 🤖 Testing new app ideas using AI
 * 🌱 Always experimenting with something new outside of work
 

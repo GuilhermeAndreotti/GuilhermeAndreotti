@@ -61,7 +61,6 @@ Cornélio Procópio, Paraná 🇧🇷
 
 ## 🎮 Interests
 
-* 🎮 Game development and game design
 * 🤖 AI-powered applications
 * 💡 Experimenting with new software ideas
 * 🌱 Learning and exploring new technologies

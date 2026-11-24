@@ -25,7 +25,7 @@ Outside of programming, I enjoy **following game development** and exploring how
 
 <div align="center">
   <br>
-  <img src="./carousel.gif" alt="Star Wars GIF carousel" width="400">
+  <img src="./carousel-v2.gif" alt="Star Wars GIF carousel" width="400">
   <br>
   <sub><i>And yes, I love Star Wars!</i></sub>
 </div>

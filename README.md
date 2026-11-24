@@ -1,27 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=180&section=header&text=Guilherme%20Andreotti&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Web%20%26%20Mobile%20Developer&descSize=16&descAlignY=56" width="100%" alt="Guilherme Andreotti — Web & Mobile Developer">
+<img src="./assets/header.svg" width="100%" alt="Guilherme Andreotti — Full Stack Developer">
 
 <div align="center">
 
 <a href="https://github.com/GuilhermeAndreotti">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=React+%E2%80%A2+React+Native+%E2%80%A2+NestJS;Building+web+%26+mobile+apps;Exploring+AI+in+software+development;May+the+Force+be+with+you" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Full+Stack+Developer+%E2%80%A2+3%2B+years;NestJS+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Building+with+Claude+Code+%26+Codex;Exploring+the+galaxy+of+code+%F0%9F%9A%80" alt="Typing SVG">
 </a>
 
 <br>
 
-<a href="https://www.linkedin.com/in/guilherme-chizzolini-andreotti-90481823b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:guilhermeandreotti19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/guilherme-chizzolini-andreotti-90481823b/"><img src="https://img.shields.io/badge/LinkedIn-1b0f3d?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"></a>
+<a href="mailto:guilhermeandreotti19@gmail.com"><img src="https://img.shields.io/badge/Email-1b0f3d?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"></a>
 
 </div>
 
 <br>
 
-## <img src="https://api.iconify.design/lucide/user-round.svg?color=%232F81F7" height="24" alt=""> About Me
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23A78BFA" height="24" alt=""> About Me
 
-I'm a **React / React Native / NestJS developer** focused on building web and mobile applications. I work full-time as a developer while also building projects for clients with friends outside of work.
+I'm a **Full Stack Developer** with **3+ years of experience** building web applications and REST APIs with **Node.js, NestJS, React and Next.js** in TypeScript.
 
-I'm interested in **AI and its impact on software development**, experimenting with new ideas and using AI to prototype and build applications.
+I've worked with **multi-tenant architectures**, third-party API integrations, reporting, queues with **Redis & BullMQ**, and deploys with **Docker, AWS and Jenkins**. I've also led a project technically, handling task distribution, code review and mentoring.
 
-Outside of programming, I enjoy **following game development** and exploring how games are designed and built.
+I'm interested in **AI and its impact on software development**. I use **Claude Code** and **OpenAI Codex** daily for refactoring, tests and documentation. Outside of programming, I enjoy **following game development** and exploring how games are designed and built.
 
 <div align="center">
   <br>
@@ -32,47 +32,84 @@ Outside of programming, I enjoy **following game development** and exploring how
 
 <br>
 
-## <img src="https://api.iconify.design/lucide/wrench.svg?color=%232F81F7" height="24" alt=""> Tech Stack
+## <img src="https://api.iconify.design/lucide/satellite.svg?color=%23A78BFA" height="24" alt=""> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,aws,cloudflare&theme=dark" alt="JavaScript, TypeScript, React, React Native, Node.js, NestJS, AWS, Cloudflare">
-  <br>
-  <sub>JavaScript · TypeScript · React · React Native · Node.js · NestJS · AWS · Cloudflare</sub>
+<table>
+  <tr>
+    <td><b>Back-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts,js,redis&theme=dark" height="40" alt="Node.js, NestJS, TypeScript, JavaScript, Redis"></td>
+  </tr>
+  <tr>
+    <td><b>Front-end</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark" height="40" alt="React, React Native, Next.js, HTML, CSS"></td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark" height="40" alt="PostgreSQL, MySQL, Firebase"></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,aws,jenkins,cloudflare,linux&theme=dark" height="40" alt="Docker, AWS, Jenkins, Cloudflare, Linux"></td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,jest&theme=dark" height="40" alt="Git, GitHub, Jest"></td>
+  </tr>
+</table>
 </div>
 
 <br>
 
-## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232F81F7" height="24" alt=""> Education
+## <img src="https://api.iconify.design/lucide/telescope.svg?color=%23A78BFA" height="24" alt=""> Projects
+
+- **Mercado Livre inventory control** <sub>(UTFPR)</sub> — stock management system integrated with the Mercado Livre API
+- **Personal infrastructure** — VPS servers, DNS on Cloudflare and file storage with Cloudflare R2
+
+<br>
+
+## <img src="https://api.iconify.design/lucide/moon-star.svg?color=%23A78BFA" height="24" alt=""> Education
 
 <div align="center">
   <a href="https://www.utfpr.edu.br/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UTFPR_logo.svg/250px-UTFPR_logo.svg.png" alt="UTFPR" height="64">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/utfpr-logo-white.svg">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/UTFPR_logo.svg/250px-UTFPR_logo.svg.png" alt="UTFPR" height="56">
+    </picture>
   </a>
   <h3>UTFPR — Federal University of Technology – Paraná</h3>
-  <b>Bachelor's Degree in Software Engineering</b>
+  <b>Bachelor's Degree in Software Engineering</b> · <sub>2020 — 2024</sub>
   <br>
-  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%232F81F7" height="14" alt=""> <sub>Cornélio Procópio, Paraná — Brazil</sub>
+  <img src="https://api.iconify.design/lucide/map-pin.svg?color=%23A78BFA" height="14" alt=""> <sub>Cornélio Procópio, Paraná — Brazil</sub>
+  <br><br>
+  <b>ETEC</b> — Web Development Technician · <sub>2018 — 2019</sub>
 </div>
 
 <br>
 
-## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%232F81F7" height="24" alt=""> Interests
+## <img src="https://api.iconify.design/lucide/sparkles.svg?color=%23A78BFA" height="24" alt=""> Interests
 
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://api.iconify.design/lucide/bot.svg?color=%232F81F7" height="32" alt=""><br>
+      <img src="https://api.iconify.design/lucide/bot.svg?color=%23A78BFA" height="32" alt=""><br>
       <b>AI-powered apps</b>
     </td>
     <td align="center" width="200">
-      <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%232F81F7" height="32" alt=""><br>
-      <b>New software ideas</b>
+      <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23A78BFA" height="32" alt=""><br>
+      <b>Game development</b>
     </td>
     <td align="center" width="200">
-      <img src="https://api.iconify.design/lucide/sprout.svg?color=%232F81F7" height="32" alt=""><br>
+      <img src="https://api.iconify.design/lucide/star.svg?color=%23A78BFA" height="32" alt=""><br>
       <b>Learning new tech</b>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:0D1117&height=110&section=footer" width="100%" alt="">
+<div align="center">
+  <sub>Languages: Portuguese (native) · English (upper-intermediate)</sub>
+</div>
+
+<br>
+
+<img src="./assets/footer.svg" width="100%" alt="May the Force be with you">

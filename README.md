@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Guilherme
+# <img src="https://api.iconify.design/lucide/hand.svg?color=%232F81F7" height="32" alt=""> Hi, I'm Guilherme
 
 ### React • React Native • NestJS Developer
 
@@ -8,7 +8,7 @@
 
 </div>
 
-## 🧑‍💻 About Me
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%232F81F7" height="24" alt=""> About Me
 
 I'm a **React / React Native / NestJS developer** focused on building web and mobile applications. I work full-time as a developer while also building projects for clients with friends outside of work.
 
@@ -23,7 +23,7 @@ Outside of programming, I enjoy **following game development** and exploring how
 </div>
 And yes! I love star wars!
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%232F81F7" height="24" alt=""> Tech Stack
 
 <div align="center">
 
@@ -39,7 +39,7 @@ And yes! I love star wars!
 
 </div>
 
-## 🎓 Education
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232F81F7" height="24" alt=""> Education
 
 <div align="center">
 
@@ -55,17 +55,17 @@ And yes! I love star wars!
 
 **Bachelor's Degree in Software Engineering**
 
-Cornélio Procópio, Paraná 🇧🇷
+<img src="https://api.iconify.design/lucide/map-pin.svg?color=%232F81F7" height="16" alt=""> Cornélio Procópio, Paraná — Brazil
 
 </div>
 
-## 🎮 Interests
+## <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%232F81F7" height="24" alt=""> Interests
 
-* 🤖 AI-powered applications
-* 💡 Experimenting with new software ideas
-* 🌱 Learning and exploring new technologies
+* <img src="https://api.iconify.design/lucide/bot.svg?color=%232F81F7" height="16" alt=""> AI-powered applications
+* <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%232F81F7" height="16" alt=""> Experimenting with new software ideas
+* <img src="https://api.iconify.design/lucide/sprout.svg?color=%232F81F7" height="16" alt=""> Learning and exploring new technologies
 
-## 📫 Contact
+## <img src="https://api.iconify.design/lucide/mail.svg?color=%232F81F7" height="24" alt=""> Contact
 
 <div align="center">
 

@@ -18,7 +18,7 @@ Outside of programming, I enjoy **following game development** and exploring how
 
 <div align="center">
 
-<img src="https://i.imgur.com/b83Yt9c.gif" alt="Guilherme's banner" width="60%">
+<img src="./carousel.gif" alt="Star Wars GIF carousel" width="60%">
 
 </div>
 And yes! I love star wars!

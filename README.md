@@ -61,13 +61,6 @@ I'm interested in **AI and its impact on software development**. I use **Claude 
 
 <br>
 
-## <img src="https://api.iconify.design/lucide/telescope.svg?color=%23A78BFA" height="24" alt=""> Projects
-
-- **Mercado Livre inventory control** <sub>(UTFPR)</sub> — stock management system integrated with the Mercado Livre API
-- **Personal infrastructure** — VPS servers, DNS on Cloudflare and file storage with Cloudflare R2
-
-<br>
-
 ## <img src="https://api.iconify.design/lucide/moon-star.svg?color=%23A78BFA" height="24" alt=""> Education
 
 <div align="center">

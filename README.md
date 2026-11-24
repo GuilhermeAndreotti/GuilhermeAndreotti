@@ -105,4 +105,4 @@ I'm interested in **AI and its impact on software development**. I use **Claude 
 
 <br>
 
-<img src="./assets/footer-black.svg" width="100%" alt="May the Force be with you">
+<img src="./assets/footer-black-purple.svg" width="100%" alt="May the Force be with you">

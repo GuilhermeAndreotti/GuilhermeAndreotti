@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Guilherme Andreotti — Full Stack Developer">
+<img src="./assets/header-deathstar.svg" width="100%" alt="Guilherme Andreotti — Full Stack Developer">
 
 <div align="center">
 
@@ -105,4 +105,4 @@ I'm interested in **AI and its impact on software development**. I use **Claude 
 
 <br>
 
-<img src="./assets/footer.svg" width="100%" alt="May the Force be with you">
+<img src="./assets/footer-stars.svg" width="100%" alt="May the Force be with you">

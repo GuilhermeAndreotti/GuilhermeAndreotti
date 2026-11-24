@@ -1,4 +1,4 @@
-<img src="./assets/header-deathstar.svg" width="100%" alt="Guilherme Andreotti — Full Stack Developer">
+<img src="./assets/header-hyperspace.gif" width="100%" alt="Guilherme Andreotti — Full Stack Developer">
 
 <div align="center">
 

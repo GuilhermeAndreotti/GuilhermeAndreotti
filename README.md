@@ -25,7 +25,7 @@ I'm interested in **AI and its impact on software development**. I use **Claude 
 
 <div align="center">
   <br>
-  <img src="./carousel-v2.gif" alt="Star Wars GIF carousel" width="400">
+  <img src="./carousel-v3.gif" alt="Star Wars GIF carousel" width="400">
   <br>
   <sub><i>And yes, I love Star Wars!</i></sub>
 </div>
